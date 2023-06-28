@@ -1,6 +1,6 @@
 #include "MassSpringSolver.h"
 #include <iostream>
-
+#include <cassert>
 // S Y S T E M //////////////////////////////////////////////////////////////////////////////////////
 mass_spring_system::mass_spring_system(
 	unsigned int n_points,
